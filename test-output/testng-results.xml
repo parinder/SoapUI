@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Soap/Rest" duration-ms="5756" started-at="2018-11-07T19:50:00Z" finished-at="2018-11-07T19:50:06Z">
+    <groups>
+    </groups>
+    <test name="Emp&amp;Lib" duration-ms="5756" started-at="2018-11-07T19:50:00Z" finished-at="2018-11-07T19:50:06Z">
+      <class name="REST.libraryApi">
+        <test-method status="PASS" signature="lib()[pri:0, instance:REST.libraryApi@5702b3b1]" name="lib" duration-ms="1551" started-at="2018-11-07T15:50:04Z" finished-at="2018-11-07T15:50:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lib -->
+      </class> <!-- REST.libraryApi -->
+      <class name="SOAP.EmpPortal">
+        <test-method status="PASS" signature="emp()[pri:0, instance:SOAP.EmpPortal@5f2108b5]" name="emp" duration-ms="4178" started-at="2018-11-07T15:50:00Z" finished-at="2018-11-07T15:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emp -->
+      </class> <!-- SOAP.EmpPortal -->
+    </test> <!-- Emp&Lib -->
+  </suite> <!-- Soap/Rest -->
+</testng-results>

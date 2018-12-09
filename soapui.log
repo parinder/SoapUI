@@ -1,0 +1,7 @@
+2018-11-07 15:50:01,040 WARN  [SoapUI] Missing folder [/home/parinder/eclipse-workspace/Testing_Projects/SoapUI_Framwork/ext] for external libraries
+2018-11-07 15:50:01,272 INFO  [DefaultSoapUICore] initialized soapui-settings from [/home/parinder/soapui-settings.xml]
+2018-11-07 15:50:01,876 INFO  [PluginManager] 0 plugins loaded in 1 ms
+2018-11-07 15:50:01,876 INFO  [DefaultSoapUICore] All plugins loaded
+2018-11-07 15:50:02,690 INFO  [WsdlProject] Loaded project from [file:/home/parinder/SoapUI/EmployeePortal-Framework-soapui-project.xml]
+2018-11-07 15:50:03,207 INFO  [log] Groovy Script - EmployeePortal Start
+2018-11-07 15:50:04,843 INFO  [WsdlProject] Loaded project from [file:/home/parinder/SoapUI/Library-API---REST-soapui-project.xml]

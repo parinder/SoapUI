@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Soap/Rest">
+  <test thread-count="5" name="Emp&amp;Lib">
+    <classes>
+      <class name="SOAP.EmpPortal"/>
+      <class name="REST.libraryApi"/>
+    </classes>
+  </test> <!-- Emp&Lib -->
+</suite> <!-- Soap/Rest -->
